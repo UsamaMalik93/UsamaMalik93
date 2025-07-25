@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sayyed Mazhar Ullah Jan 👨‍💻
 
-Hi, I'm Sayyed Mazhar Ullah Jan, a self-taught full-stack web developer and freelance software engineer from Pakistan. I specialize in designing elegant and user-friendly interfaces with impeccable code quality. I stay up-to-date with the latest industry trends and technologies to provide cutting-edge solutions to my clients. I'm committed to open-source software and continued learning, always pushing the boundaries of what's possible in my field.
+Hi, I'm Usama Malik, a self-taught full-stack web developer and freelance software engineer from Pakistan. I specialize in designing elegant and user-friendly interfaces with impeccable code quality. I stay up-to-date with the latest industry trends and technologies to provide cutting-edge solutions to my clients. I'm committed to open-source software and continued learning, always pushing the boundaries of what's possible in my field.
 
 ## ⚡ Tech Stack
 
@@ -28,8 +28,8 @@ Here are a few things I've picked up along my learning journey.
  ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyed-mazhar-ullah-jan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/usamamalik9)
 
 
- or give some ♥ on [mail](mailto:mazharj4565@gmail.com) .
+ or give some ♥ on [mail](mailto:usamamalik2033@gmail.com) .
 
